@@ -1,0 +1,13 @@
+{
+    "max_quantity_customers": [
+        "sam_jones"
+    ],
+    "max_value_customers": [
+        "peter_black"
+    ],
+    "mean_purchase_value": 11.875,
+    "mean_order_quantity": 3.375,
+    "most_sold_products": [
+        "orange"
+    ]
+}
